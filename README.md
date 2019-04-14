@@ -105,7 +105,7 @@ sudo apt-get install fonts-twemoji-svginot
 AUR package: https://aur.archlinux.org/packages/ttf-twemoji-color/
 
 ```sh
-yay -S ttf-twemoji-color
+yaourt -S ttf-twemoji-color
 ```
 
 ### Install on Gentoo Linux
